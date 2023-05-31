@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BM3Y+1nzMFle8FSCkceua0cpnRjeWfQ3i982iHHBJyHd1CPAESU6Gdck6kH7FqMbCuussv/hlpUXluEyRTOEPg==",
+  "dgSpecHash": "fYNUL0FqYBCJiWYmOLakL/KIVw1o70oGqUT8RCqTgZXro6pKTcliJypi54tAoCV3L3odi3KqYugCkfwC30mBwg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.API\\AMS.eComm.API.csproj",
+  "projectFilePath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.API\\AMS.eComm.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\benit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

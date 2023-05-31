@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {}
+    "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {
+    "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
         "projectName": "AMS.eComm.Domain",
-        "projectPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
+        "projectPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
         "packagesPath": "C:\\Users\\benit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\obj\\",
+        "outputPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benit\\AppData\\Roaming\\NuGet\\NuGet.Config"

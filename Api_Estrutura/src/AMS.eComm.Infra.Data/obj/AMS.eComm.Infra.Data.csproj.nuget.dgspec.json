@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj": {}
+    "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj": {}
   },
   "projects": {
-    "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {
+    "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
         "projectName": "AMS.eComm.Domain",
-        "projectPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
+        "projectPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj",
         "packagesPath": "C:\\Users\\benit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\obj\\",
+        "outputPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj": {
+    "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj",
         "projectName": "AMS.eComm.Infra.Data",
-        "projectPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\benit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {
-                "projectPath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj"
+              "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj": {
+                "projectPath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Domain\\AMS.eComm.Domain.csproj"
               }
             }
           }
@@ -100,6 +100,8 @@
               "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pFLhq8igkBo8TsRQ3Azdz88MDzUaHv50wtWxN8nW0ekKgNLg2rL64wmMTYixc+JYnGHdi+iYbM0Y+LiNdDmX7w==",
+  "dgSpecHash": "FlbXMZAoFj2UGYKi5DWwBPn/h29KLT3zPWxd83pPnfIymBq00VsAX7K5Vl81dUXAED5f5TgtKY2qTVevFM4ZjQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\benit\\Desktop\\Api_Estrutura\\Api_Estrutura\\src\\AMS.eComm.Infra.Data\\AMS.eComm.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benit\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\benit\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
